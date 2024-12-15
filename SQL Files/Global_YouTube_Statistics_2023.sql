@@ -1,0 +1,20 @@
+CREATE TABLE Global_YouTube_Statistics_2023 (
+    rank INTEGER NOT NULL,
+    youtuber CHARACTER VARYING NOT NULL,
+    subscribers BIGINT,
+    video_views BIGINT,
+    category CHARACTER VARYING,
+    uploads INTEGER,
+    country CHARACTER VARYING,
+    channel_type CHARACTER VARYING,
+    video_views_rank INTEGER,
+    country_rank INTEGER,
+    channel_type_rank INTEGER,
+    video_views_for_the_last_30_days BIGINT,
+    lowest_monthly_earnings NUMERIC,
+    highest_monthly_earnings NUMERIC,
+    lowest_yearly_earnings NUMERIC,
+    highest_yearly_earnings BIGINT,
+    population BIGINT,
+    CONSTRAINT pk_rank PRIMARY KEY (rank)
+);
