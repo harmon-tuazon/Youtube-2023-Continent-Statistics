@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5a90e3e0-3a27-4dfa-970d-d7601d8f2806)# Youtube 2023 Continent Statistics
+# Youtube 2023 Continent Statistics
 
 ## Context
 In this personal project, I analyzed global trends and content performance using a public dataset from Kaggle. Focusing on metrics like views, subscribers, and revenue rates, I uncovered insights into how the platform performed across the globe. To achieve this, I used tools like Power BI and SQL to perform data cleaning, visualization, and analysis. This project highlights my ability to identify patterns, uncover growth opportunities, and present actionable insights. 
@@ -58,8 +58,7 @@ In this phase of the project, I executed the following tasks using Power BI:
 
 Output for this section: 
 ![Screenshot 2024-11-30 181924](https://github.com/user-attachments/assets/62fc005b-8972-48f4-8b50-fb2752d6b6a3)
-![image](https://github.com/user-attachments/assets/975919ac-2d91-4ff9-a072-7de255f42afe)
-
+![image](https://github.com/user-attachments/assets/5a90e3e0-3a27-4dfa-970d-d7601d8f2806)
 
 ## Analysis & Conclusion
 
