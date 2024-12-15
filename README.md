@@ -1,9 +1,7 @@
 # Youtube 2023 Continent Statistics
 
 ## Context
-In this personal project, I analyzed global trends and content performance using a public dataset from Kaggle. Focusing on metrics like views, subscribers, and revenue rates, I uncovered insights into how the platform performed across the globe. To achieve this, I used tools like Power BI and SQL to perform data cleaning, visualization, and analysis. This project highlights my ability to identify patterns, uncover growth opportunities, and present actionable insights. 
-
-It is the aim of this project to reflect my capacity to transform raw data into meaningful narratives, aligning with the key responsibilities of a data analyst in data driven decision-making.
+In this personal project, I analyzed global trends and content performance using a public dataset from Kaggle. Focusing on metrics like views, subscribers, and revenue rates, I uncovered insights into how the platform performed across the globe. To achieve this, I used tools like Power BI and SQL to perform data cleaning, visualization, and analysis. It should be noted that this project is only conducted descriptive analytics. This is because this project is mainly focused on making use of 2 different tools in conjunction with each other. 
 
 ## Process Flow 
 1. SQL for Data Normalization and Exploration
