@@ -3,7 +3,7 @@
 ## Context
 In this personal project, I analyzed global trends and content performance using a public dataset from Kaggle. Focusing on metrics like views, subscribers, and revenue rates, I uncovered insights into how the platform performed across the globe. To achieve this, I used tools like Power BI and SQL to perform data cleaning, visualization, and analysis. It should be noted that this project is only conducted descriptive analytics. This is because this project is mainly focused on making use of 2 different tools in conjunction with each other. 
 
-## Process Flow 
+## Tools and Process Flow
 1. SQL for Data Normalization and Exploration
   * First, I used SQL to normalize and organize the dataset, making it more structured and efficient for analysis. Although the raw data from the source is already quite structured and flat, SQL’s powerful  capabilities allowed me to not only normalize data efficiently but also do quick data exploration. 
     
