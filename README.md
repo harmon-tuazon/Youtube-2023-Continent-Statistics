@@ -43,8 +43,8 @@ In this phase of the project, I executed the following tasks using Power Query:
 
 ## Data Modeling 
 In this phase of the project, I executed the following tasks using Power BI:
-- Created Measures and Calculations: Defined calculated fields and used aggregation functions like sum, average, and count to generate insights directly in the model. Examples include: a measure to capture the user selected Key Performance Indicator from a slicer and return the corresponding Metric. 
-- Established Relationships Between Tables: Connected tables via primary and foreign keys to enable data analysis across different tables.
+- Created Measures and Calculations: Defined calculated fields and used aggregation functions like sum, average, and count to generate insights directly in the model. Examples include: a measure to capture the user selected Key Performance Indicator from a slicer and return the corresponding Metric; and a calculated table that creates a column for continent ID for each youtube channel found in the original table (this will be used later in the data model). 
+- Established Relationships Between Tables: Connected tables via primary and foreign keys to enable data analysis across different tables. Specifically, I connected the summary tables I queried in the data exploration phase to the more granular table I initialized from the data source so that more specific filtering, sorting, calculations, etc. can be done to the summary table using the data from the granular table. These tables were connected using the continentID calculated column made in the previous step.
 
 Output for this section: 
 ![Screenshot 2024-11-30 182041](https://github.com/user-attachments/assets/9073fb5a-aab2-4b01-a6c1-bebd0eed37e9)
